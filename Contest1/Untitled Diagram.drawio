@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T09:41:38.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="sEG0Er4FfdtdJZQBzuUy" version="17.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T09:51:05.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="zSfg-3J7_VYtbEXwtRal" version="17.2.2" type="github">
   <diagram id="UM0ldJh-TKYMPD7hWYN_" name="Page-1">
-    <mxGraphModel dx="1682" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1402" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,10 +327,10 @@
         <mxCell id="ZTR0N_lIvHsauShFplQp-133" value="smart contract" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="877.5" y="180" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZTR0N_lIvHsauShFplQp-134" value="ipfs node" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="ZTR0N_lIvHsauShFplQp-134" value="IPFS node" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="930" y="380" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZTR0N_lIvHsauShFplQp-135" value="pinata" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="ZTR0N_lIvHsauShFplQp-135" value="PINATA" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1290" y="380" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTR0N_lIvHsauShFplQp-137" value="data.json" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;labelBackgroundColor=none;fontColor=#000000;size=14;" vertex="1" parent="1">
@@ -348,7 +348,7 @@
             <mxPoint x="900" y="404.44" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZTR0N_lIvHsauShFplQp-152" value="upload" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontColor=#000000;" connectable="0" vertex="1" parent="ZTR0N_lIvHsauShFplQp-151">
+        <mxCell id="ZTR0N_lIvHsauShFplQp-152" value="Upload" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontColor=#000000;" connectable="0" vertex="1" parent="ZTR0N_lIvHsauShFplQp-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZTR0N_lIvHsauShFplQp-153" value="metadata" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=#000000;" vertex="1" parent="1">
@@ -358,12 +358,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="540" as="sourcePoint" />
             <mxPoint x="990" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZTR0N_lIvHsauShFplQp-155" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZTR0N_lIvHsauShFplQp-153" target="ZTR0N_lIvHsauShFplQp-135">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1070" y="500" as="sourcePoint" />
-            <mxPoint x="1120" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZTR0N_lIvHsauShFplQp-157" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZTR0N_lIvHsauShFplQp-133" target="ZTR0N_lIvHsauShFplQp-160">
@@ -434,6 +428,15 @@
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="213" y="51" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZTR0N_lIvHsauShFplQp-189" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZTR0N_lIvHsauShFplQp-153" target="ZTR0N_lIvHsauShFplQp-135">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="450" as="sourcePoint" />
+            <mxPoint x="1130" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZTR0N_lIvHsauShFplQp-190" value="Upload" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontSize=11;fontColor=#000000;" connectable="0" vertex="1" parent="ZTR0N_lIvHsauShFplQp-189">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
